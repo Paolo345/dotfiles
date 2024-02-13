@@ -1,0 +1,14 @@
+fileversion=2
+ps_name=Hyper Chorus
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\Fruity\Hyper Chorus.fst
+ps_files=1
+ps_file_name_0=Hyper Chorus
+ps_file_filename_0=%FLPath%\Plugins\Fruity\Effects\Hyper Chorus\Hyper Chorus_x64.dll
+ps_file_plugclass_0=2
+ps_file_type_0=1
+ps_file_bitsize_0=64
+ps_file_arch_0=Intel
+ps_file_date_0=4676453537190508650
+ps_file_size_0=4171496
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Image-Line

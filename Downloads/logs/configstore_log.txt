@@ -1,0 +1,13 @@
+
+
+[2024-02-12 21:47:13] Client version: 1705108307
+[2024-02-12 21:47:13] Failed to read store 'install' from 'Z:\home\paolo345\Downloads\config\config.vdf.tmp'
+[2024-02-12 21:47:13] Failed to read store 'install' from 'Z:\home\paolo345\Downloads\config\config.vdf.tmp'
+[2024-02-12 21:47:13] Failed to read store 'install' from 'Z:\home\paolo345\Downloads\config\config.vdf.tmp'
+[2024-02-12 21:47:13] Flushed store 'install' to 'Z:\home\paolo345\Downloads\config\config.vdf'
+[2024-02-12 21:47:16] Flushed store 'install' to 'Z:\home\paolo345\Downloads\config\config.vdf'
+[2024-02-12 21:47:37] Loaded store 'install' from 'Z:\home\paolo345\Downloads\config\config.vdf' successfully
+[2024-02-12 21:47:55] Flushed store 'install' to 'Z:\home\paolo345\Downloads\config\config.vdf'
+[2024-02-12 21:47:59] Failed to read store 'userlocal' from 'Z:\home\paolo345\Downloads\userdata\anonymous\config\localconfig.vdf.tmp'
+[2024-02-12 21:47:59] Flushed store 'install' to 'Z:\home\paolo345\Downloads\config\config.vdf'
+[2024-02-12 21:48:00] Flushed store 'userlocal' to 'Z:\home\paolo345\Downloads\userdata\anonymous\config\localconfig.vdf'

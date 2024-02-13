@@ -1,0 +1,14 @@
+fileversion=2
+ps_name=Fruity DX10
+ps_presetfilename=%FLPluginDBPath%\Installed\Generators\Fruity\Fruity DX10.fst
+ps_files=1
+ps_file_name_0=Fruity DX10
+ps_file_filename_0=%FLPath%\Plugins\Fruity\Generators\Fruity DX10\Fruity DX10_x64.dll
+ps_file_plugclass_0=3
+ps_file_type_0=2
+ps_file_bitsize_0=64
+ps_file_arch_0=Intel
+ps_file_date_0=4676453536232890016
+ps_file_size_0=4421872
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Image-Line

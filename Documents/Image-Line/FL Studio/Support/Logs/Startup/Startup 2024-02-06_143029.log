@@ -1,0 +1,52 @@
+[06/02/2024 14:30:29] C:\users\paolo345\My Documents\Image-Line\FL Studio\Support\Logs\Startup\Startup 2024-02-06_143029.log
+[06/02/2024 14:30:29] HostVersion=1 Flags=00000000
+[06/02/2024 14:30:29] Init module
+[06/02/2024 14:30:29] Init core paths
+[06/02/2024 14:30:30] FL Studio v21.2.2.3914
+[06/02/2024 14:30:30] BeforeRunning
+[06/02/2024 14:30:30] Starting at 2:30:30 PM64Bit addressing mode3DNow! support: noSSE    support: yesSSE2   support: yesSSE3   support: yesSSSE3  support: yesAVX    support: yesTouchscreen not availableMain GUI scaling factor: 1 (system set to 96PPI)Temporary folder for this session:C:\users\paolo345\Temp\Image-Line\{87327608-161C-4B8C-8953-C4D5B6D631A3}\FL Studio language: English (US)Windows display language: en-US---
+[06/02/2024 14:30:30] ReadIniFile
+[06/02/2024 14:30:30]   Restore window state
+[06/02/2024 14:30:30]   Restore settings window
+[06/02/2024 14:30:30]     Assigned(MIDIForm) = 
+[06/02/2024 14:30:30]   Read various options
+[06/02/2024 14:30:30]   Read more options
+[06/02/2024 14:30:30]   Load MRU list
+[06/02/2024 14:30:30]   Restore more window settings
+[06/02/2024 14:30:30] Animation timer set to 16ms, vsync disabled
+[06/02/2024 14:30:30]   Read audio options
+[06/02/2024 14:30:30]   Update tools menu
+[06/02/2024 14:30:30]   Init things
+[06/02/2024 14:30:30] Mixer track map: 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125---
+[06/02/2024 14:30:30] Mixer threading map rebuilt: 1 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125---
+[06/02/2024 14:30:30] Opening ASIO driver: FL Studio ASIO version 1Buffer length: 512 framesIn/out latency: 2790/2898 framesTime out: 21ms (926 frames)---
+[06/02/2024 14:30:30] Opening MIDI output devices
+[06/02/2024 14:30:30] Opening MIDI input devices
+[06/02/2024 14:30:30] Loading FLP file: C:\Program Files\Image-Line\FL Studio 21\Data\System\PreviewTrack.fst
+[06/02/2024 14:30:30] Loading project: version 4.5.4
+[06/02/2024 14:30:30] ---
+[06/02/2024 14:30:30]   Update browser
+[06/02/2024 14:30:30]   Update channel rack
+[06/02/2024 14:30:30]   Update toolbars and stuff
+[06/02/2024 14:30:30]   Restore settings for most windows
+[06/02/2024 14:30:30]   Init DWM
+[06/02/2024 14:30:30] ReadIniFile - end
+[06/02/2024 14:30:31] BeforeRunning - end
+[06/02/2024 14:30:31] ProcessFirstTimeStuff
+[06/02/2024 14:30:34] Browser caching took 4238 milliseconds.
+[06/02/2024 14:32:28] Opening MIDI output devices
+[06/02/2024 14:32:28] Opening MIDI input devices
+[06/02/2024 14:32:28] Opening MIDI output devices
+[06/02/2024 14:32:28] Opening MIDI input devices
+[06/02/2024 14:32:28] Loading Newstuff.flp
+[06/02/2024 14:32:28] Loading FLP file: C:\Program Files\Image-Line\FL Studio 21\Data\Demo projects\NewStuff.flp
+[06/02/2024 14:32:28] Mixer track map: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,0---
+[06/02/2024 14:32:28] Mixer threading map rebuilt: 2 layer(s)   Layer 1: 1 unit(s)      Unit 1: track(s) 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 1 unit(s)      Unit 1: track(s) 0---
+[06/02/2024 14:32:28] Loading project: version 21.0.0.3302
+[06/02/2024 14:32:28] Threaded generator(s): 0
+[06/02/2024 14:32:44] ---
+[06/02/2024 14:32:44] Mixer track map: 1,2,3,4,5,6,7,9,10,11,13,14,15,16,17,18,19,20,21,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,66,69,70,71,72,73,74,76,77,78,79,80,81,82,83,84,86,87,88,96,97,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,8,12,22,48,64,75,89,23,65,85,90,91,92,93,94,99,67,68,95,98,0---
+[06/02/2024 14:32:44] Mixer threading map rebuilt: 6 layer(s)   Layer 1: 66 unit(s)      Unit 1: track(s) 1      Unit 2: track(s) 2      Unit 3: track(s) 3      Unit 4: track(s) 4,5      Unit 5: track(s) 6      Unit 6: track(s) 7      Unit 7: track(s) 9      Unit 8: track(s) 10      Unit 9: track(s) 11      Unit 10: track(s) 13      Unit 11: track(s) 14      Unit 12: track(s) 15,16      Unit 13: track(s) 17      Unit 14: track(s) 18      Unit 15: track(s) 19      Unit 16: track(s) 20      Unit 17: track(s) 21      Unit 18: track(s) 24      Unit 19: track(s) 25,26      Unit 20: track(s) 27      Unit 21: track(s) 28      Unit 22: track(s) 29      Unit 23: track(s) 30      Unit 24: track(s) 31,32      Unit 25: track(s) 33      Unit 26: track(s) 34,35      Unit 27: track(s) 36      Unit 28: track(s) 37      Unit 29: track(s) 38      Unit 30: track(s) 39      Unit 31: track(s) 40      Unit 32: track(s) 41,42      Unit 33: track(s) 43      Unit 34: track(s) 44,45      Unit 35: track(s) 46      Unit 36: track(s) 47      Unit 37: track(s) 49      Unit 38: track(s) 50      Unit 39: track(s) 51      Unit 40: track(s) 52      Unit 41: track(s) 53      Unit 42: track(s) 54      Unit 43: track(s) 55,56      Unit 44: track(s) 57      Unit 45: track(s) 58,59      Unit 46: track(s) 60      Unit 47: track(s) 61      Unit 48: track(s) 62      Unit 49: track(s) 63      Unit 50: track(s) 66      Unit 51: track(s) 69,70      Unit 52: track(s) 71      Unit 53: track(s) 72      Unit 54: track(s) 73      Unit 55: track(s) 74      Unit 56: track(s) 76      Unit 57: track(s) 77,78      Unit 58: track(s) 79      Unit 59: track(s) 80,81      Unit 60: track(s) 82      Unit 61: track(s) 83,84      Unit 62: track(s) 86      Unit 63: track(s) 87      Unit 64: track(s) 88      Unit 65: track(s) 96      Unit 66: track(s) 97,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125   Layer 2: 7 unit(s)      Unit 1: track(s) 8      Unit 2: track(s) 12      Unit 3: track(s) 22      Unit 4: track(s) 48      Unit 5: track(s) 64      Unit 6: track(s) 75      Unit 7: track(s) 89   Layer 3: 9 unit(s)      Unit 1: track(s) 23      Unit 2: track(s) 65      Unit 3: track(s) 85      Unit 4: track(s) 90      Unit 5: track(s) 91      Unit 6: track(s) 92      Unit 7: track(s) 93      Unit 8: track(s) 94      Unit 9: track(s) 99   Layer 4: 3 unit(s)      Unit 1: track(s) 67      Unit 2: track(s) 68      Unit 3: track(s) 95   Layer 5: 1 unit(s)      Unit 1: track(s) 98   Layer 6: 1 unit(s)      Unit 1: track(s) 0---
+[06/02/2024 14:32:44] Play startup sound
+[06/02/2024 14:32:44] Startup took 134 seconds and 970 milliseconds.
+[06/02/2024 14:32:44] End of startup log

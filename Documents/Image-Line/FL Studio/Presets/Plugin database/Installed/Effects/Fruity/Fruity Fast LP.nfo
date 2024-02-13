@@ -1,0 +1,14 @@
+fileversion=2
+ps_name=Fruity Fast LP
+ps_presetfilename=%FLPluginDBPath%\Installed\Effects\Fruity\Fruity Fast LP.fst
+ps_files=1
+ps_file_name_0=Fruity Fast LP
+ps_file_filename_0=%FLPath%\Plugins\Fruity\Effects\Fruity Fast LP\Fruity Fast LP_x64.dll
+ps_file_plugclass_0=2
+ps_file_type_0=1
+ps_file_bitsize_0=64
+ps_file_arch_0=Intel
+ps_file_date_0=4676453536293337704
+ps_file_size_0=3988208
+ps_file_scanflags_0=1
+ps_file_vendorname_0=Image-Line

@@ -1,0 +1,45 @@
+
+
+[2024-02-12 21:47:13] Client version: 1705108307
+[2024-02-12 21:47:13] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2024-02-12 21:47:13] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2024-02-12 21:47:13] Connectivity test: OK!
+[2024-02-12 21:47:13] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2024-02-12 21:47:13] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2a01:bc80:7:100::9b85:f80e]:80 ([2a01:bc80:7:100::9b85:f80e]:80)) - TIMEOUT
+[2024-02-12 21:47:15] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / 2a01:bc80:a:100::b919:b603) - TIMEOUT
+[2024-02-12 21:47:37] Clearing in-memory token - 1 (OK): SetLoginInformation
+[2024-02-12 21:47:37] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2024-02-12 21:47:37] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2024-02-12 21:47:37] [Logged Off, 4, 0] [a:1:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 1
+[2024-02-12 21:47:37] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2024-02-12 21:47:37] GetCMListForConnect -- got 8 Netfilter CMs and 72 WebSocket CMs
+[2024-02-12 21:47:37] GetCMListForConnect -- DC 'fra2' count: 22
+[2024-02-12 21:47:37] GetCMListForConnect -- DC 'fra1' count: 22
+[2024-02-12 21:47:37] GetCMListForConnect -- DC 'sto1' count: 20
+[2024-02-12 21:47:37] GetCMListForConnect -- DC 'vie1' count: 16
+[2024-02-12 21:47:37] [Connecting, 4, 0] [a:1:0] CM Directory list says 90% of connections should be websockets, we rolled 88 - using WebSockets as default.
+[2024-02-12 21:47:37] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-fra1.steamserver.net:27033) starting...
+[2024-02-12 21:47:37] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-fra2.steamserver.net:27025) starting...
+[2024-02-12 21:47:37] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-fra1.steamserver.net:27029) starting...
+[2024-02-12 21:47:37] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-fra2.steamserver.net:27031) starting...
+[2024-02-12 21:47:38] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-fra2.steamserver.net:27031) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:38] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-fra1.steamserver.net:27029) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:38] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-fra2.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:38] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-fra1.steamserver.net:27033) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:38] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext3-fra2.steamserver.net:443) starting...
+[2024-02-12 21:47:38] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext1-fra1.steamserver.net:443) starting...
+[2024-02-12 21:47:38] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-sto1.steamserver.net:27020) starting...
+[2024-02-12 21:47:38] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext1-vie1.steamserver.net:27034) starting...
+[2024-02-12 21:47:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext1-vie1.steamserver.net:27034) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext3-fra2.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-sto1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext1-fra1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-vie1.steamserver.net:27032) starting...
+[2024-02-12 21:47:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-sto1.steamserver.net:443) starting...
+[2024-02-12 21:47:55] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-sto1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:55] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (ext2-vie1.steamserver.net:27032) failed talking to cm (timeout/neterror - Invalid)
+[2024-02-12 21:47:55] [Connecting, 4, 3] [a:1:0] Connect() starting connection (eNetQOSLevelHigh, ext2-fra1.steamserver.net:27033, WebSocket)
+[2024-02-12 21:47:58] [Connecting, 4, 3] [a:1:0] ConnectionCompleted() (162.254.197.54:27033, WebSocket) local address (192.168.1.114:45169)
+[2024-02-12 21:47:58] [Connecting, 4, 3] [a:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2024-02-12 21:47:58] [Connected, 4, 3] [a:1:0] Logging on [a:1:0]
+[2024-02-12 21:47:59] [Logging On, 4, 3] [a:1:0] RecvMsgClientLogOnResponse() : [a:1:3661358428] 'OK'
